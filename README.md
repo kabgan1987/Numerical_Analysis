@@ -1,6 +1,6 @@
 # Numerical_Analysis
 
-In theses codes .m denotes MATLAB/Octave codes and .py denotes Python codes
+In these codes .m denotes MATLAB/Octave codes and .py denotes Python codes
 
 base.m and base.py: Using this code you can convert your number in Decimal to other base system. Output will be a vector.
 
