@@ -20,7 +20,7 @@ def base():
             break
         a.append(int(qu[-1]))
     r.append(int(qu[-1]))
-    return r, b
-r,b=base()
+    return r, b, a1
+r,b, a1=base()
 d=r[::-1]
-print(f"You have entered {a1} and the base is {b}. The resukt is {d}")
+print(f"You have entered {a1} and the base is {b}. The result is {d}")
