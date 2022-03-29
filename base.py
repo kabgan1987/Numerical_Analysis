@@ -1,4 +1,3 @@
-
 import numpy as np
 
 def base():
@@ -21,8 +20,7 @@ def base():
             break
         a.append(int(qu[-1]))
     r.append(int(qu[-1]))
-    return r
-r=base()
+    return r, b
+r,b=base()
 d=r[::-1]
 print(f"You have entered {a1} and the base is {b}. The resukt is {d}")
-
