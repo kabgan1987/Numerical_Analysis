@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[82]:
-
-
 import numpy as np
 
 def base():
