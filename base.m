@@ -1,4 +1,3 @@
-
 function base
 
 %Using this code you can convert your number in Decimal to other base system
